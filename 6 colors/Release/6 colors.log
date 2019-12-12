@@ -1,0 +1,23 @@
+﻿  6 colors.cpp
+  AI.cpp
+c:\users\c-shark\desktop\dan's cloud\6 colors\6 colors\ai.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\c-shark\desktop\dan's cloud\6 colors\6 colors\ai.cpp(44): warning C4018: '<': signed/unsigned mismatch
+  Map.cpp
+  ShapeContainer.cpp
+c:\users\c-shark\desktop\dan's cloud\6 colors\6 colors\shapecontainer.cpp(336): warning C4018: '<': signed/unsigned mismatch
+c:\users\c-shark\desktop\dan's cloud\6 colors\6 colors\shapecontainer.cpp(338): warning C4018: '<': signed/unsigned mismatch
+c:\users\c-shark\desktop\dan's cloud\6 colors\6 colors\shapecontainer.cpp(353): warning C4018: '<': signed/unsigned mismatch
+c:\users\c-shark\desktop\dan's cloud\6 colors\6 colors\shapecontainer.cpp(362): warning C4018: '<': signed/unsigned mismatch
+  Window_Manager.cpp
+c:\users\c-shark\desktop\dan's cloud\6 colors\6 colors\window_manager.cpp(78): warning C4018: '>': signed/unsigned mismatch
+c:\users\c-shark\desktop\dan's cloud\6 colors\6 colors\window_manager.cpp(80): warning C4018: '>': signed/unsigned mismatch
+c:\users\c-shark\desktop\dan's cloud\6 colors\6 colors\window_manager.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\c-shark\desktop\dan's cloud\6 colors\6 colors\window_manager.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\c-shark\desktop\dan's cloud\6 colors\6 colors\window_manager.cpp(194): warning C4018: '<': signed/unsigned mismatch
+c:\users\c-shark\desktop\dan's cloud\6 colors\6 colors\window_manager.cpp(197): warning C4018: '<': signed/unsigned mismatch
+c:\users\c-shark\desktop\dan's cloud\6 colors\6 colors\window_manager.cpp(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\c-shark\desktop\dan's cloud\6 colors\6 colors\window_manager.cpp(230): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 514 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  6 colors.vcxproj -> C:\Users\C-Shark\Desktop\dan's cloud\6 colors\Release\6 colors.exe
