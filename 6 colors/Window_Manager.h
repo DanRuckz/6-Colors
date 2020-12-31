@@ -49,6 +49,8 @@ private:
 	Font font;
 	Text Tscore[2];
 	Text nscore[2];
+	Text PlayerChoice[3];
+	
 	bool failed = false;
 	Texture texture;
 	Sprite sprite[2];
@@ -59,6 +61,5 @@ private:
 	RectangleShape yesno[2];
 	Text yesnotext[2];
 	static bool again;
-
 };
 

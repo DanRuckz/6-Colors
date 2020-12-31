@@ -294,6 +294,7 @@ void Window_Manager::setTexts()
 	nscore[1].setFillColor(Color::White);
 	nscore[1].setOutlineColor(Color::Black);
 	nscore[1].setOutlineThickness(2);
+
 }
 
 void Window_Manager::setX()
